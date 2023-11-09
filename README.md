@@ -8,7 +8,7 @@ The Karplus-Strong algorithm, a digital signal processing technique, models the 
 
 ## Set-up
 1. Download all starter files from this link: [Guitar Starter Files](https://penoy.admu.edu.ph/~guadalupe154884/classes/csci30/guitar_files.zip)
-2. Set up a Python virtual environment by running python -m venv guitarenv. Activate the environment:
+2. Set up a Python virtual environment by running `python -m venv guitarenv`. Activate the environment:
     Linux/macOS: `source guitarenv/bin/activate`
     Windows: `guitarenv\Scripts\activate`
 3. Install the required packages using `pip install -r requirements.txt`.
